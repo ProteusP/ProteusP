@@ -1,6 +1,6 @@
 # Привет! 👋 Я Дима
 
-🥋***About***
+## 🥋 About
 - 🔭 Сейчас работаю над приложениями на Go и C++
 - 🔮 Изучаю: Kubernets, Kafka
 - ✉️ Как связаться: [Telegram](https://t.me/mrph3d)
