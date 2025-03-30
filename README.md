@@ -7,23 +7,20 @@
 
 ## 🤹🏻 Мой стек
 
-### Языки программирования:
-
+### Языки программирования
 <p align="left">
-  <!-- Используем комбинацию skillicons.dev и кастомных иконок -->
   <img src="https://skillicons.dev/icons?i=go,cpp,python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width="48" height="48"/>
 </p>
 
 ### Фреймворки и библиотеки
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=qt,django,gin" />
+  <img src="https://skillicons.dev/icons?i=qt,django" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/boost/boost-original.svg" width="48" height="48"/>
 </p>
 
 ### Базы данных
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql, redis" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql,redis" />
 </p>
 
 ### Инфраструктура
