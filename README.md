@@ -15,7 +15,6 @@
 ### Фреймворки и библиотеки
 <p align="left">
   <img src="https://skillicons.dev/icons?i=qt,django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/boost/boost-original.svg" width="48" height="48"/>
 </p>
 
 ### Базы данных
